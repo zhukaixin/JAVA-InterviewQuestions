@@ -1,4 +1,6 @@
 **_``这是一套完整的java面试题
+个人博客：https://www.cnblogs.com/zhukaixin/
+（里面有一些开发中遇到的困难与解决方法，有些个人对一些技术的认知）
 里面包含java 基础知识 （线程部分、集合部分、IO 流及Socket 部分、异常部分、基础及语法部分）
        java 高级知识（ 
        MySQL 知识 
